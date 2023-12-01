@@ -14,4 +14,5 @@ double celsius(double a) {
 int main() {
 	double num{};
 	cout << "Fahrenheit: " << celsius(num);
+	return 0;
 }
